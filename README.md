@@ -14,6 +14,7 @@ Cài đặt các thư viện hỗ trợ của python
 9.	sys: Module cung cấp truy cập vào một số biến được sử dụng hoặc duy trì bởi trình thông dịch Python và các hàm tương tác với trình thông dịch.
 10.	PyQt5.QtWidgets: Module của PyQt5, một phiên bản Python cho framework ứng dụng Qt, được sử dụng để tạo giao diện người dùng đồ họa (GUI).
 11.	numba.jit và numba.cuda: Numba là trình biên dịch thời gian chạy (JIT) cho Python, có thể tối ưu mã số học và tăng tốc tính toán. Module cuda trong Numba cho phép tăng tốc tính toán bằng GPU cho một số tính toán cụ thể.
+
     Chạy file main.py
    	Matrix size: thiết lập kích thước bản đồ (30,..)
    	Agent Starting Position: Vị trí bắt đầu (5,5..)
